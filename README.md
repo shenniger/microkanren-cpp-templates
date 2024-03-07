@@ -8,12 +8,12 @@ can theoretically be used as a relatively complete functional language, the bigg
 being C++'s ban on template members in local and anonymous classes, which overcomplicates
 emulating lambdas.
 
-* Status
+# Status
 WIP. See `example.cpp` for a small working example that demonstrates how to use this.
 
-* Dependencies
+# Dependencies
 Clang. GCC does not work due to a bug.
 
-* See also
+# See also
 - μKanren: A Minimal Functional Core for Relational Programming http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf
 - https://minikanren.org
