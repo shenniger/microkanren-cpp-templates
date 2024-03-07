@@ -12,7 +12,7 @@ emulating lambdas.
 WIP. See `example.cpp` for a small working example that demonstrates how to use this.
 
 # Dependencies
-Clang. GCC does not work due to a bug.
+Clang. GCC does not work due to a compiler bug (https://gcc.gnu.org/bugzilla/show_bug.cgi?id=85282). 
 
 # See also
 - μKanren: A Minimal Functional Core for Relational Programming http://webyrd.net/scheme-2013/papers/HemannMuKanren2013.pdf
